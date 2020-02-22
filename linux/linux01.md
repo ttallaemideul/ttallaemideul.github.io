@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Linux Docs.
-description: Linux Docs.
-summary: Linux Docs.
+title: Linux
+locale: ko_KR
+description: Linux Docs
+summary: Linux Docs
 tags: [linux]
 ---
 
