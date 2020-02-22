@@ -12,3 +12,12 @@
   * [맥북에어에 우분투 설치](/linux/ubuntu/ubuntu_2020_02_22.html)
 * CentOS
   * [CentOS 8 고정 IP 사용](/linux/centos/centos_2020_02_22.html)
+
+### favicon
+```html
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+```
+
