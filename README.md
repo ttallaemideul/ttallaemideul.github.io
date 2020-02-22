@@ -15,9 +15,20 @@
 
 ### favicon
 ```html
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+<link rel="manifest" href="/assets/site.webmanifest">
 ```
+
+### old _config.yml
+```
+theme: jekyll-theme-hacker
+lang: ko-KR
+title: Powered By TtalLaeMiDeul
+description: salanghaneun ttallaemideul, gyeong-in yein, haengboghago geonganghadolog oneuldo nan gaebalhanda.
+show_downloads: false
+google_analytics:
+```
+
 

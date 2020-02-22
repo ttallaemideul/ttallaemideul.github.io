@@ -1,6 +1,41 @@
-theme: jekyll-theme-hacker
-lang: ko-KR
-title: Powered By TtalLaeMiDeul
-description: salanghaneun ttallaemideul, gyeong-in yein, haengboghago geonganghadolog oneuldo nan gaebalhanda.
-show_downloads: false
-google_analytics:
+# Site settings
+title:          Powered By TtalLaeMiDeul
+description:    "salanghaneun ttallaemideul, gyeong-in yein, haengboghago geonganghadolog oneuldo nan gaebalhanda"
+baseurl:        "/"
+url:            "https://ttallaemideul.github.io"
+
+# Google Analytics
+#google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         TtalLaeMiDeul 
+  url:          https://ttallaemideul.github.io
+  email:        ttallaemideul@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+#disqus:         jekyll-tale
