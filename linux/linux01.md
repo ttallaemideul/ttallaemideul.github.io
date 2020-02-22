@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Linux title
-description: Linux docs.
-summary: Linux docs.
+title: Linux Docs.
+description: Linux Docs.
+summary: Linux Docs.
 tags: [linux]
 ---
 
