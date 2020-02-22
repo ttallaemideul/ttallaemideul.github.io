@@ -6,5 +6,5 @@
 * [Hacker theme](https://pages-themes.github.io/hacker)
 * [The Cayman theme](https://github.com/pages-themes/cayman)
 
-## Linux
-* [Linux](./linux/linux01.html) 
+## [Linux](./linux/linux01.html) 
+* [CentOS 8 고정 IP 사용](/linux/centos/centos_2020_02_22.html)
