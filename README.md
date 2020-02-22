@@ -1,3 +1,7 @@
+---
+locale: ko_KR
+---
+
 # Powered By TtalLaeMiDeul
 
 ## Github links
