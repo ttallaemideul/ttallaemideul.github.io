@@ -1,2 +1,2 @@
-# ttallamideul.github.io
-Powered By Ttallaemideul
+
+# Powered By Ttallaemideul
