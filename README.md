@@ -8,5 +8,7 @@
 
 ## Linux
 * [Linux](./linux/linux01.html) 
+* Ubuntu
+  * [맥북에어에 우분투 설치](/linux/ubuntu/ubuntu_2020_02_22.md)
 * CentOS
   * [CentOS 8 고정 IP 사용](/linux/centos/centos_2020_02_22.html)

@@ -9,5 +9,7 @@ tags: [linux]
 
 iso 이미지를 usb로 굽기 위해서 https://rufus.ie/ 의 rufus 프로그램을 이용하였는데 리눅스도 부팅 usb로 잘 만들어줬다.
 
+* Ubuntu
+  * [맥북에어에 우분투 설치](/linux/ubuntu/ubuntu_2020_02_22.md)
 * CentOS
   * [CentOS 8 고정 IP 사용](/linux/centos/centos_2020_02_22.html)
