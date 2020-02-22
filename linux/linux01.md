@@ -8,4 +8,5 @@ tags: [linux]
 ---
 
 # Linux
-* [CentOS 8 고정 IP 사용](/linux/centos/centos_2020_02_22.html)
+* CentOS
+  * [CentOS 8 고정 IP 사용](/linux/centos/centos_2020_02_22.html)
