@@ -1,6 +1,5 @@
 ---
 layout: default
-comments: true
 ---
 
 <div class="post">
@@ -24,9 +23,9 @@ comments: true
   {{ content }}
 </div>
 
-{% if page.comments %}
+<!-- {% if page.comments %} -->
   {% include disqus_comments.html %}
-{% endif %}
+<!-- {% endif %} -->
 
 <div class="pagination">
   {% if page.next.url %}
