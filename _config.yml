@@ -5,7 +5,7 @@ baseurl:        "/"
 url:            "https://ttallaemideul.github.io"
 
 # Google Analytics
-#google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-158907444-1
 
 # Author
 author:
@@ -32,7 +32,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year:month:day/:title
-paginate:       5
+paginate:       10
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
