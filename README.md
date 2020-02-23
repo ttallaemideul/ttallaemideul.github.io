@@ -3,11 +3,11 @@
 ## Github links
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Theme Chooser](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser)
+* [Tale theme](https://github.com/chesterhow/tale)
 * [Hacker theme](https://pages-themes.github.io/hacker)
-* [The Cayman theme](https://github.com/pages-themes/cayman)
+* [Cayman theme](https://github.com/pages-themes/cayman)
 
 ## Linux
-* [Linux](./linux/linux01.html) 
 * Ubuntu
   * [맥북에어에 우분투 설치](/linux/ubuntu/ubuntu_2020_02_22.html)
 * CentOS

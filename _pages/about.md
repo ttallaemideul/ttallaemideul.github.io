@@ -8,5 +8,13 @@ permalink: /about/
 
 jekyll도 새롭게 배울 것이 많구나.
 
+> salanghaneun ttallaemideul, gyeong-in yein, haengboghago geonganghadolog oneuldo nan gaebalhanda
+
 2020.02.23 딸래미들 아빠.
 
+## Github links
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Theme Chooser](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser)
+* [Tale theme](https://github.com/chesterhow/tale)
+* [Hacker theme](https://pages-themes.github.io/hacker)
+* [Cayman theme](https://github.com/pages-themes/cayman)
