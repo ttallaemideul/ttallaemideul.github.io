@@ -2,7 +2,6 @@
 layout: post
 title: "About"
 permalink: /about
-comments: true
 sitemap:
   priority: 1.0
   changefreq: 'monthly'
