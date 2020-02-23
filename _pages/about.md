@@ -31,4 +31,6 @@ jekyll도 새롭게 배울 것이 많구나.
 
 ![하트](/assets/logo_512x512_hearts.png)
 
-![원본](/assets/logo_512x512.png)
+![원본 하트](/assets/logo_512x512.png)
+
+![원본](/assets/logo.png)
