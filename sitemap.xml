@@ -19,9 +19,13 @@ layout: null
     {% if page.sitemap != null and page.sitemap != empty %}
       <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
-        <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema | "2020-02-23T09:00:00+00:00"  }}</lastmod>
-        <changefreq>{{ page.sitemap.changefreq | "monthly"}}</changefreq>
-        <priority>{{ page.sitemap.priority | "1.0" }}</priority>
+        {% if page.sitemap.lastmod == null %}
+          <lastmod>2020-02-23T09:00:00+00:00</lastmod>
+        {% else %}
+          <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
+        {% endif %}
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
        </url>
     {% endif %}
   {% endfor %}
