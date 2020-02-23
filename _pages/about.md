@@ -23,3 +23,12 @@ jekyll도 새롭게 배울 것이 많구나.
 * [Tale theme](https://github.com/chesterhow/tale)
 * [Hacker theme](https://pages-themes.github.io/hacker)
 * [Cayman theme](https://github.com/pages-themes/cayman)
+
+
+## logo 만들기
+
+![최종](/assets/logo_512x512_hearts_text.png)
+
+![하트](/assets/logo_512x512_hearts.png)
+
+![원본](/assets/logo_512x512.png)
