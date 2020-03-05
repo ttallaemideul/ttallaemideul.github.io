@@ -27,6 +27,8 @@ jekyll도 새롭게 배울 것이 많구나.
 
 ## logo 만들기
 
+![로고3 최종](/assets/ttallaemideul03.png)
+
 ![로고3 투명](/assets/ttallaemideul02_transparent.png)
 
 ![로고3](/assets/ttallaemideul02.png)
