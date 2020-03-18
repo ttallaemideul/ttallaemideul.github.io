@@ -26,6 +26,10 @@ JSTL 보다는 많은 기능을 제공한다고 생각된다.
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
 * [Spring Thymeleaf](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/reference/htmlsingle/#boot-features-spring-mvc-template-engines)
 * [Thymeleaf Docs.](https://www.thymeleaf.org/documentation.html)
+* [MyBatis homepage](https://mybatis.org/mybatis-3/)
+* [MyBatis-Spring](https://mybatis.org/spring/)
+* [H2 Database Engine](https://www.h2database.com/)
+* [W3.CSS homepage](https://www.w3schools.com/w3css/)
 
 
 ## Thymeleaf Javascript inlining
