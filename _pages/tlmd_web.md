@@ -27,6 +27,12 @@ JSTL 보다는 많은 기능을 제공한다고 생각된다.
 
 * [타임리프 자바스크립트 사용 샘플](https://ttallaemideul.github.io/20200318/thymeleaf-js-001)
 
+## Extending Thymeleaf dialects
+
+타임리프 dialect를 확장하여 커스텀 속성, 태그를 만드는 방법이다.
+
+* [dialect 확장하기](https://ttallaemideul.github.io/20200416/thymeleaf-extend-001)
+
 ## H2 디비 연동과 다중 데이터베이스 연결 지원.
 
 메모리 디비가 지원되는 H2 데이터베이스를 연동하고 쿼리 실행 결과를 타임리프로 화면에 표시하는 샘플이다.

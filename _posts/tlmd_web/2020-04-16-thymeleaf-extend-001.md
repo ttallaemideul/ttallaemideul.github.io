@@ -140,4 +140,4 @@ public ThymeleafViewResolver viewResolver() {
 아래 샘플 프로젝트에서 이 문서에서 설명한 소스를 확인할 수 있다.
 프로젝트를 받아서 직접 빌드하여 실행하고 결과를 확인해보면 도움이 될 것이다.
 
-[github 샘플 프로젝트](https://github.com/ttallaemideul/springboot/blob/master/tlmd_web/src/main/resources/templates/sample/thymeleaf/javascript.html)
+[github 샘플 프로젝트](https://github.com/ttallaemideul/springboot/tree/master/tlmd_web)
