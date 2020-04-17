@@ -32,6 +32,7 @@ JSTL 보다는 많은 기능을 제공한다고 생각된다.
 타임리프 dialect를 확장하여 커스텀 속성, 태그를 만드는 방법이다.
 
 * [dialect 확장하기](https://ttallaemideul.github.io/20200416/thymeleaf-extend-001)
+* [dialect 확장 더 많이... 태그에 class 추가 하기](https://ttallaemideul.github.io/20200417/thymeleaf-extend-002)
 
 ## H2 디비 연동과 다중 데이터베이스 연결 지원.
 
