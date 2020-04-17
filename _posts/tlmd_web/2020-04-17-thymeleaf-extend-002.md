@@ -138,7 +138,7 @@ public SpringTemplateEngine templateEngine() {
 </tr>
 ```
 
-[admin_main.html](https://github.com/ttallaemideul/springboot/blob/master/tlmd_web/src/main/resources/templates/web/admin/admin_main.htmls)
+[admin_main.html](https://github.com/ttallaemideul/springboot/blob/master/tlmd_web/src/main/resources/templates/web/admin/admin_main.html)
 
 ## 화면 랜더링 결과
 
