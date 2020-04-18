@@ -18,3 +18,5 @@ th:href="@{http://localhost:8080/gtvg/order/details(orderId=${o.id})}">view</a>
 <!-- Will produce '/gtvg/order/3/details' (plus rewriting) -->
 <a href="details.html" th:href="@{/order/{orderId}/details(orderId=${o.id})}">view</a>
 ```
+
+[타임리프 사이트: Standard URL Syntax](https://www.thymeleaf.org/doc/articles/standardurlsyntax.html)
