@@ -5,7 +5,7 @@ permalink: /tlmd_web
 sitemap:
   priority: 1.0
   changefreq: 'monthly'
-  lastmod: '2020-03-18T09:00:00-00:00'
+  lastmod: '2020-04-18T09:00:00-00:00'
 ---
 
 스프링부트 기반의 샘플 프로젝트를 구현하고자 한다.
@@ -33,6 +33,10 @@ JSTL 보다는 많은 기능을 제공한다고 생각된다.
 
 * [dialect 확장하기](https://ttallaemideul.github.io/20200416/thymeleaf-extend-001)
 * [dialect 확장 더 많이... 태그에 class 추가 하기](https://ttallaemideul.github.io/20200417/thymeleaf-extend-002)
+
+## Thymeleaf 기본 문법
+
+* [타임리프 URL 링크 걸기](https://ttallaemideul.github.io/20200418/thymeleaf-url-001)
 
 ## H2 디비 연동과 다중 데이터베이스 연결 지원.
 
