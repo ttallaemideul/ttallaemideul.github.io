@@ -8,13 +8,9 @@ sitemap:
   lastmod: '2020-02-23T09:00:00-00:00'
 ---
 
-여러 블로그 사이트에 중구난방으로 만들었던 글들을 이번에는 gitbub에 잘 정리해서 계속 작성하고자 한다.
+홈페이지를 [APPAGA](https://appaga.github.io)로 이사합니다.
 
-jekyll도 새롭게 배울 것이 많구나.
-
-> salanghaneun ttallaemideul, gyeong-in yein, haengboghago geonganghadolog oneuldo nan gaebalhanda
-
-2020.02.23 딸래미들 아빠.
+2020.04.25 딸래미들 아빠.
 
 ## Github links
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
